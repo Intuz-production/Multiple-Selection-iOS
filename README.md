@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [iOS app development](https://www.intuz.com/ios-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 INTUZ is presenting a Multiple Selection from tableview is used in Native iOS-based application. Multiple Selection is simple component to use for if you want to get the list of selection from tableview.
 
 <br/><br/>
